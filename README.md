@@ -1,6 +1,12 @@
 # Netflix GPT
   - Blunder -vite
   - configured tailwind css
+  - Header
+  - Routing of App
+  - Login Page
+  - Signup Page
+  - Form validation
+  - useRef hook
   
 
 # Features
